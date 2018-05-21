@@ -5,10 +5,11 @@ BTEFA, powered by Bridge Consulting, provides adaptation functionalities for the
 
 Main features:
 
-    * Document preprocessing and format adaptation
-    * Contrast adaptation
-    * hOCR format adaptation and text metadata extraction 
-    * Adaptation from HOCR to HTML5
+* Document preprocessing and format adaptation
+* Image preprocessing
+* Contrast adaptation
+* hOCR format adaptation and text metadata extraction 
+* Adaptation from HOCR to HTML5
 
 
 
