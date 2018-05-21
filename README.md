@@ -1,20 +1,15 @@
 Bridge Text Extractors and Features Adapter
 ------------
 
-BTEFA is a powerful tool, powered by Bridge Consulting, that provides functionality for converting a paper document to an html document with semantic annotations.
-
-BTEFA is bases on Tesseract.
+BTEFA, powered by Bridge Consulting, provides adaptation functionalities for the Tesseract Engine.
 
 Main features:
 
-* Document preprocessing
+    * Document preprocessing and format adaptation
     * Contrast adaptation
-    * Splitting
-    * ...
+    * hOCR format adaptation and text metadata extraction 
+    * Adaptation from HOCR to HTML5
 
-* HOCR format adaptation
-* Text metadata extraction
-* Page components ranking (e.g. candidate title)
 
-* Adaptation from HOCR to HTML 5
+
 
